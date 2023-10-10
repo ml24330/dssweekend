@@ -1,0 +1,1294 @@
+graph [
+  node [
+    id 0
+    label "AU"
+  ]
+  node [
+    id 1
+    label "AT"
+  ]
+  node [
+    id 2
+    label "BE"
+  ]
+  node [
+    id 3
+    label "CA"
+  ]
+  node [
+    id 4
+    label "CL"
+  ]
+  node [
+    id 5
+    label "TW"
+  ]
+  node [
+    id 6
+    label "FI"
+  ]
+  node [
+    id 7
+    label "FR"
+  ]
+  node [
+    id 8
+    label "DE"
+  ]
+  node [
+    id 9
+    label "GR"
+  ]
+  node [
+    id 10
+    label "IE"
+  ]
+  node [
+    id 11
+    label "IT"
+  ]
+  node [
+    id 12
+    label "JP"
+  ]
+  node [
+    id 13
+    label "NL"
+  ]
+  node [
+    id 14
+    label "PT"
+  ]
+  node [
+    id 15
+    label "ES"
+  ]
+  node [
+    id 16
+    label "SE"
+  ]
+  node [
+    id 17
+    label "TR"
+  ]
+  node [
+    id 18
+    label "GB"
+  ]
+  node [
+    id 19
+    label "US"
+  ]
+  node [
+    id 20
+    label "CH"
+  ]
+  node [
+    id 21
+    label "IN"
+  ]
+  node [
+    id 22
+    label "KR"
+  ]
+  edge [
+    source 0
+    target 1
+    value 269.0
+  ]
+  edge [
+    source 0
+    target 2
+    value 866.0
+  ]
+  edge [
+    source 0
+    target 3
+    value 19415.0
+  ]
+  edge [
+    source 0
+    target 4
+    value 66.0
+  ]
+  edge [
+    source 0
+    target 5
+    value 6800.0
+  ]
+  edge [
+    source 0
+    target 6
+    value 525.0
+  ]
+  edge [
+    source 0
+    target 7
+    value 10828.0
+  ]
+  edge [
+    source 0
+    target 8
+    value 18299.0
+  ]
+  edge [
+    source 0
+    target 9
+    value 15.0
+  ]
+  edge [
+    source 0
+    target 10
+    value 2814.0
+  ]
+  edge [
+    source 0
+    target 11
+    value 891.0
+  ]
+  edge [
+    source 0
+    target 12
+    value 18881.0
+  ]
+  edge [
+    source 0
+    target 13
+    value 11316.0
+  ]
+  edge [
+    source 0
+    target 14
+    value 137.0
+  ]
+  edge [
+    source 0
+    target 15
+    value 993.0
+  ]
+  edge [
+    source 0
+    target 16
+    value 2166.0
+  ]
+  edge [
+    source 0
+    target 17
+    value 336.0
+  ]
+  edge [
+    source 0
+    target 18
+    value 114678.0
+  ]
+  edge [
+    source 0
+    target 19
+    value 95170.0
+  ]
+  edge [
+    source 0
+    target 21
+    value 8099.0
+  ]
+  edge [
+    source 0
+    target 22
+    value 5408.0
+  ]
+  edge [
+    source 0
+    target 20
+    value 7576.0
+  ]
+  edge [
+    source 1
+    target 2
+    value 2158.0
+  ]
+  edge [
+    source 1
+    target 3
+    value 948.0
+  ]
+  edge [
+    source 1
+    target 5
+    value 265.0
+  ]
+  edge [
+    source 1
+    target 6
+    value 1023.0
+  ]
+  edge [
+    source 1
+    target 7
+    value 11600.0
+  ]
+  edge [
+    source 1
+    target 8
+    value 46295.0
+  ]
+  edge [
+    source 1
+    target 9
+    value 972.0
+  ]
+  edge [
+    source 1
+    target 10
+    value 1774.0
+  ]
+  edge [
+    source 1
+    target 11
+    value 18160.0
+  ]
+  edge [
+    source 1
+    target 12
+    value 1088.0
+  ]
+  edge [
+    source 1
+    target 13
+    value 12933.0
+  ]
+  edge [
+    source 1
+    target 14
+    value 1022.0
+  ]
+  edge [
+    source 1
+    target 15
+    value 4213.0
+  ]
+  edge [
+    source 1
+    target 16
+    value 1883.0
+  ]
+  edge [
+    source 1
+    target 20
+    value 9320.0
+  ]
+  edge [
+    source 1
+    target 17
+    value 1381.0
+  ]
+  edge [
+    source 1
+    target 18
+    value 18628.0
+  ]
+  edge [
+    source 1
+    target 19
+    value 11396.0
+  ]
+  edge [
+    source 1
+    target 4
+    value 35.0
+  ]
+  edge [
+    source 1
+    target 21
+    value 416.0
+  ]
+  edge [
+    source 1
+    target 22
+    value 757.0
+  ]
+  edge [
+    source 2
+    target 3
+    value 1025.0
+  ]
+  edge [
+    source 2
+    target 4
+    value 17.0
+  ]
+  edge [
+    source 2
+    target 5
+    value 407.0
+  ]
+  edge [
+    source 2
+    target 6
+    value 606.0
+  ]
+  edge [
+    source 2
+    target 7
+    value 29154.0
+  ]
+  edge [
+    source 2
+    target 8
+    value 15625.0
+  ]
+  edge [
+    source 2
+    target 9
+    value 253.0
+  ]
+  edge [
+    source 2
+    target 10
+    value 21638.0
+  ]
+  edge [
+    source 2
+    target 11
+    value 11551.0
+  ]
+  edge [
+    source 2
+    target 12
+    value 1257.0
+  ]
+  edge [
+    source 2
+    target 14
+    value 990.0
+  ]
+  edge [
+    source 2
+    target 15
+    value 13154.0
+  ]
+  edge [
+    source 2
+    target 16
+    value 774.0
+  ]
+  edge [
+    source 2
+    target 17
+    value 2742.0
+  ]
+  edge [
+    source 2
+    target 18
+    value 30698.0
+  ]
+  edge [
+    source 2
+    target 19
+    value 22861.0
+  ]
+  edge [
+    source 2
+    target 21
+    value 633.0
+  ]
+  edge [
+    source 2
+    target 13
+    value 23058.0
+  ]
+  edge [
+    source 2
+    target 22
+    value 368.0
+  ]
+  edge [
+    source 2
+    target 20
+    value 1666.0
+  ]
+  edge [
+    source 3
+    target 4
+    value 43.0
+  ]
+  edge [
+    source 3
+    target 5
+    value 1114.0
+  ]
+  edge [
+    source 3
+    target 6
+    value 2228.0
+  ]
+  edge [
+    source 3
+    target 7
+    value 23544.0
+  ]
+  edge [
+    source 3
+    target 8
+    value 27053.0
+  ]
+  edge [
+    source 3
+    target 9
+    value 70.0
+  ]
+  edge [
+    source 3
+    target 10
+    value 5902.0
+  ]
+  edge [
+    source 3
+    target 11
+    value 2905.0
+  ]
+  edge [
+    source 3
+    target 12
+    value 13272.0
+  ]
+  edge [
+    source 3
+    target 13
+    value 13377.0
+  ]
+  edge [
+    source 3
+    target 14
+    value 223.0
+  ]
+  edge [
+    source 3
+    target 15
+    value 2546.0
+  ]
+  edge [
+    source 3
+    target 16
+    value 2551.0
+  ]
+  edge [
+    source 3
+    target 20
+    value 3533.0
+  ]
+  edge [
+    source 3
+    target 17
+    value 2177.0
+  ]
+  edge [
+    source 3
+    target 18
+    value 92892.0
+  ]
+  edge [
+    source 3
+    target 19
+    value 632016.0
+  ]
+  edge [
+    source 3
+    target 22
+    value 5114.0
+  ]
+  edge [
+    source 4
+    target 5
+    value 243.0
+  ]
+  edge [
+    source 4
+    target 7
+    value 53.0
+  ]
+  edge [
+    source 4
+    target 8
+    value 67.0
+  ]
+  edge [
+    source 4
+    target 11
+    value 3.0
+  ]
+  edge [
+    source 4
+    target 12
+    value 29.0
+  ]
+  edge [
+    source 4
+    target 14
+    value 222.0
+  ]
+  edge [
+    source 4
+    target 15
+    value 34.0
+  ]
+  edge [
+    source 4
+    target 16
+    value 18.0
+  ]
+  edge [
+    source 4
+    target 18
+    value 111.0
+  ]
+  edge [
+    source 4
+    target 19
+    value 1297.0
+  ]
+  edge [
+    source 4
+    target 6
+    value 1.0
+  ]
+  edge [
+    source 4
+    target 21
+    value 96.0
+  ]
+  edge [
+    source 4
+    target 13
+    value 2.0
+  ]
+  edge [
+    source 4
+    target 22
+    value 102.0
+  ]
+  edge [
+    source 4
+    target 20
+    value 1.0
+  ]
+  edge [
+    source 4
+    target 17
+    value 2.0
+  ]
+  edge [
+    source 5
+    target 6
+    value 34.0
+  ]
+  edge [
+    source 5
+    target 7
+    value 2907.0
+  ]
+  edge [
+    source 5
+    target 8
+    value 4433.0
+  ]
+  edge [
+    source 5
+    target 9
+    value 1.0
+  ]
+  edge [
+    source 5
+    target 21
+    value 5954.0
+  ]
+  edge [
+    source 5
+    target 10
+    value 3920.0
+  ]
+  edge [
+    source 5
+    target 11
+    value 148.0
+  ]
+  edge [
+    source 5
+    target 12
+    value 3902.0
+  ]
+  edge [
+    source 5
+    target 13
+    value 2473.0
+  ]
+  edge [
+    source 5
+    target 14
+    value 40.0
+  ]
+  edge [
+    source 5
+    target 22
+    value 4387.0
+  ]
+  edge [
+    source 5
+    target 15
+    value 270.0
+  ]
+  edge [
+    source 5
+    target 16
+    value 315.0
+  ]
+  edge [
+    source 5
+    target 20
+    value 4450.0
+  ]
+  edge [
+    source 5
+    target 17
+    value 187.0
+  ]
+  edge [
+    source 5
+    target 18
+    value 8144.0
+  ]
+  edge [
+    source 5
+    target 19
+    value 54311.0
+  ]
+  edge [
+    source 6
+    target 7
+    value 3273.0
+  ]
+  edge [
+    source 6
+    target 8
+    value 2566.0
+  ]
+  edge [
+    source 6
+    target 9
+    value 430.0
+  ]
+  edge [
+    source 6
+    target 11
+    value 520.0
+  ]
+  edge [
+    source 6
+    target 12
+    value 4002.0
+  ]
+  edge [
+    source 6
+    target 13
+    value 2606.0
+  ]
+  edge [
+    source 6
+    target 14
+    value 198.0
+  ]
+  edge [
+    source 6
+    target 15
+    value 1055.0
+  ]
+  edge [
+    source 6
+    target 16
+    value 3998.0
+  ]
+  edge [
+    source 6
+    target 17
+    value 2.0
+  ]
+  edge [
+    source 6
+    target 18
+    value 2865.0
+  ]
+  edge [
+    source 6
+    target 19
+    value 428.0
+  ]
+  edge [
+    source 6
+    target 10
+    value 552.0
+  ]
+  edge [
+    source 6
+    target 20
+    value 711.0
+  ]
+  edge [
+    source 7
+    target 8
+    value 185921.0
+  ]
+  edge [
+    source 7
+    target 9
+    value 41725.0
+  ]
+  edge [
+    source 7
+    target 10
+    value 31064.0
+  ]
+  edge [
+    source 7
+    target 11
+    value 356968.0
+  ]
+  edge [
+    source 7
+    target 12
+    value 110504.0
+  ]
+  edge [
+    source 7
+    target 13
+    value 166412.0
+  ]
+  edge [
+    source 7
+    target 14
+    value 19724.0
+  ]
+  edge [
+    source 7
+    target 15
+    value 130572.0
+  ]
+  edge [
+    source 7
+    target 16
+    value 22368.0
+  ]
+  edge [
+    source 7
+    target 20
+    value 58711.0
+  ]
+  edge [
+    source 7
+    target 17
+    value 25510.0
+  ]
+  edge [
+    source 7
+    target 18
+    value 258170.0
+  ]
+  edge [
+    source 7
+    target 19
+    value 513139.0
+  ]
+  edge [
+    source 7
+    target 21
+    value 16032.0
+  ]
+  edge [
+    source 7
+    target 22
+    value 17834.0
+  ]
+  edge [
+    source 8
+    target 9
+    value 6319.0
+  ]
+  edge [
+    source 8
+    target 10
+    value 93753.0
+  ]
+  edge [
+    source 8
+    target 11
+    value 133474.0
+  ]
+  edge [
+    source 8
+    target 12
+    value 41942.0
+  ]
+  edge [
+    source 8
+    target 13
+    value 165030.0
+  ]
+  edge [
+    source 8
+    target 14
+    value 27214.0
+  ]
+  edge [
+    source 8
+    target 15
+    value 139919.0
+  ]
+  edge [
+    source 8
+    target 16
+    value 33500.0
+  ]
+  edge [
+    source 8
+    target 20
+    value 51359.0
+  ]
+  edge [
+    source 8
+    target 17
+    value 19649.0
+  ]
+  edge [
+    source 8
+    target 18
+    value 459768.0
+  ]
+  edge [
+    source 8
+    target 19
+    value 502257.0
+  ]
+  edge [
+    source 8
+    target 21
+    value 21051.0
+  ]
+  edge [
+    source 8
+    target 22
+    value 18109.0
+  ]
+  edge [
+    source 9
+    target 10
+    value 494.0
+  ]
+  edge [
+    source 9
+    target 11
+    value 456.0
+  ]
+  edge [
+    source 9
+    target 12
+    value 93.0
+  ]
+  edge [
+    source 9
+    target 13
+    value 3379.0
+  ]
+  edge [
+    source 9
+    target 14
+    value 50.0
+  ]
+  edge [
+    source 9
+    target 15
+    value 281.0
+  ]
+  edge [
+    source 9
+    target 16
+    value 143.0
+  ]
+  edge [
+    source 9
+    target 17
+    value 29310.0
+  ]
+  edge [
+    source 9
+    target 18
+    value 12457.0
+  ]
+  edge [
+    source 9
+    target 19
+    value 2840.0
+  ]
+  edge [
+    source 9
+    target 21
+    value 1.0
+  ]
+  edge [
+    source 9
+    target 22
+    value 34.0
+  ]
+  edge [
+    source 9
+    target 20
+    value 1098.0
+  ]
+  edge [
+    source 10
+    target 11
+    value 1235.0
+  ]
+  edge [
+    source 10
+    target 12
+    value 204.0
+  ]
+  edge [
+    source 10
+    target 13
+    value 2398.0
+  ]
+  edge [
+    source 10
+    target 14
+    value 509.0
+  ]
+  edge [
+    source 10
+    target 15
+    value 5026.0
+  ]
+  edge [
+    source 10
+    target 16
+    value 559.0
+  ]
+  edge [
+    source 10
+    target 20
+    value 800.0
+  ]
+  edge [
+    source 10
+    target 17
+    value 88.0
+  ]
+  edge [
+    source 10
+    target 18
+    value 132501.0
+  ]
+  edge [
+    source 10
+    target 19
+    value 8892.0
+  ]
+  edge [
+    source 11
+    target 21
+    value 2120.0
+  ]
+  edge [
+    source 11
+    target 12
+    value 2659.0
+  ]
+  edge [
+    source 11
+    target 13
+    value 20646.0
+  ]
+  edge [
+    source 11
+    target 14
+    value 3070.0
+  ]
+  edge [
+    source 11
+    target 15
+    value 26323.0
+  ]
+  edge [
+    source 11
+    target 16
+    value 2844.0
+  ]
+  edge [
+    source 11
+    target 20
+    value 12545.0
+  ]
+  edge [
+    source 11
+    target 17
+    value 5762.0
+  ]
+  edge [
+    source 11
+    target 18
+    value 44780.0
+  ]
+  edge [
+    source 11
+    target 19
+    value 33658.0
+  ]
+  edge [
+    source 11
+    target 22
+    value 488.0
+  ]
+  edge [
+    source 12
+    target 21
+    value 25155.0
+  ]
+  edge [
+    source 12
+    target 13
+    value 51536.0
+  ]
+  edge [
+    source 12
+    target 14
+    value 839.0
+  ]
+  edge [
+    source 12
+    target 15
+    value 21371.0
+  ]
+  edge [
+    source 12
+    target 16
+    value 14282.0
+  ]
+  edge [
+    source 12
+    target 17
+    value 5388.0
+  ]
+  edge [
+    source 12
+    target 18
+    value 175484.0
+  ]
+  edge [
+    source 12
+    target 19
+    value 1241202.0
+  ]
+  edge [
+    source 12
+    target 22
+    value 47980.0
+  ]
+  edge [
+    source 12
+    target 20
+    value 27789.0
+  ]
+  edge [
+    source 13
+    target 14
+    value 4847.0
+  ]
+  edge [
+    source 13
+    target 15
+    value 67517.0
+  ]
+  edge [
+    source 13
+    target 16
+    value 6922.0
+  ]
+  edge [
+    source 13
+    target 17
+    value 2847.0
+  ]
+  edge [
+    source 13
+    target 18
+    value 127483.0
+  ]
+  edge [
+    source 13
+    target 19
+    value 168954.0
+  ]
+  edge [
+    source 13
+    target 20
+    value 21081.0
+  ]
+  edge [
+    source 14
+    target 21
+    value 21.0
+  ]
+  edge [
+    source 14
+    target 15
+    value 22311.0
+  ]
+  edge [
+    source 14
+    target 16
+    value 164.0
+  ]
+  edge [
+    source 14
+    target 17
+    value 10.0
+  ]
+  edge [
+    source 14
+    target 18
+    value 5388.0
+  ]
+  edge [
+    source 14
+    target 19
+    value 5826.0
+  ]
+  edge [
+    source 14
+    target 22
+    value 6.0
+  ]
+  edge [
+    source 14
+    target 20
+    value 2820.0
+  ]
+  edge [
+    source 15
+    target 21
+    value 465.0
+  ]
+  edge [
+    source 15
+    target 22
+    value 727.0
+  ]
+  edge [
+    source 15
+    target 16
+    value 2585.0
+  ]
+  edge [
+    source 15
+    target 20
+    value 8002.0
+  ]
+  edge [
+    source 15
+    target 17
+    value 19370.0
+  ]
+  edge [
+    source 15
+    target 18
+    value 415966.0
+  ]
+  edge [
+    source 15
+    target 19
+    value 209376.0
+  ]
+  edge [
+    source 16
+    target 21
+    value 317.0
+  ]
+  edge [
+    source 16
+    target 22
+    value 202.0
+  ]
+  edge [
+    source 16
+    target 17
+    value 323.0
+  ]
+  edge [
+    source 16
+    target 18
+    value 45252.0
+  ]
+  edge [
+    source 16
+    target 19
+    value 85300.0
+  ]
+  edge [
+    source 16
+    target 20
+    value 4104.0
+  ]
+  edge [
+    source 17
+    target 21
+    value 37.0
+  ]
+  edge [
+    source 17
+    target 20
+    value 545.0
+  ]
+  edge [
+    source 17
+    target 18
+    value 3377.0
+  ]
+  edge [
+    source 17
+    target 19
+    value 4453.0
+  ]
+  edge [
+    source 18
+    target 21
+    value 84966.0
+  ]
+  edge [
+    source 18
+    target 22
+    value 97423.0
+  ]
+  edge [
+    source 18
+    target 20
+    value 200316.0
+  ]
+  edge [
+    source 18
+    target 19
+    value 1121687.0
+  ]
+  edge [
+    source 19
+    target 21
+    value 72037.0
+  ]
+  edge [
+    source 19
+    target 22
+    value 94683.0
+  ]
+  edge [
+    source 19
+    target 20
+    value 778181.0
+  ]
+]
